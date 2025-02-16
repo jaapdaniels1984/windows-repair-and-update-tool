@@ -8,6 +8,5 @@ This is a simple cleanup and repair utility. with the following options:
 * Clear Icon Cache
 * Clear thumbnail Cache
 * Force clear print tasks
-* Exit
 
 Most of it is in all.bat, but driver updater is written in PowerShell.
